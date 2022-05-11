@@ -2,7 +2,7 @@
 Clone the repository
 
 # Step 2
-Create new branch - task1
+Create new branch - total
 
 # Step 3
 Create a python file to implement following functionality
